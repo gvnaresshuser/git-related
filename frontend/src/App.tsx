@@ -104,7 +104,7 @@ function App() {
       <header className="bg-slate-900 text-white shadow">
         <div className="mx-auto max-w-7xl px-6 py-5">
           <h1 className="text-2xl font-bold">
-            Product Inventory Management 🔍
+            Product Inventory Management 🔍✏️
           </h1>
 
           <p className="mt-1 text-sm text-slate-300">
